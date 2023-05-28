@@ -27,6 +27,7 @@ tags:
 paths:
   /pet:
     put:
+      x-active: true
       tags:
         - pet
       summary: Update an existing pet
