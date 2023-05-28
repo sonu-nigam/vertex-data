@@ -1,8 +1,8 @@
 [
   {
-    title: "Swagger Petstore - OpenAPI 3.0",
-    description: "Everything about your Pets",
-    version: "1.0.11",
-    id: "123456"
+    "title": "Swagger Petstore - OpenAPI 3.0",
+    "description": "Everything about your Pets",
+    "version": "1.0.11",
+    "id": "123456"
   }
 ]
